@@ -1,3 +1,7 @@
 "Hello, Git!"
+
 Added another line.
 Edit this
+=======
+Added this line from a new repo.
+
