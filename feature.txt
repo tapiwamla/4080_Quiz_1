@@ -1,2 +1,11 @@
 "Hello, Git!"
+
 I've added a new one.
+=======
+
+Added another line.
+Edit this
+=======
+Added this line from a new repo.
+=======
+i have added another line
